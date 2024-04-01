@@ -6,8 +6,24 @@ It is a imaginary landing page developed by [Code Institute](https://codeinstitu
 
 As **Whiskey Drop** is a imaginary page, some dummy text was used on the feature section. This is called Lorem ipsum text, and it's commonly used for populating web sites with fake text to see how the layout works. 
 
+---
+
+> ## Objective of replicating the page:
+
+* Learn about Bootstrap Framework: 
+
+    * Following the video lesson to replicate the **Whiskey Drop** landing page helped me learn better about Bootstrap;
+
+* Improve the skills I have already learned:
+
+    * Although it is not a page developed by me, by replicating the ``code`` of this page I was able to learn new skills and improve those I have learned since starting the Full Stack Software Development course, such as:
+    
+        * HTML
+        * CSS
+        * Mobile First Design
+        * Creating Wireframe
+        * Bootstrap Framework
 
 
-> ## 
 
 
