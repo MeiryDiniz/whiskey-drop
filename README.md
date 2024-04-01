@@ -6,6 +6,10 @@ It is a imaginary landing page developed by [Code Institute](https://codeinstitu
 
 As **Whiskey Drop** is a imaginary page, some dummy text was used on the feature section. This is called Lorem ipsum text, and it's commonly used for populating web sites with fake text to see how the layout works. 
 
+[Click here to visit the page **Whiskey Drop**]()
+
+![Page Image](https://github.com/MeiryDiniz/whiskey-drop/blob/main/assets/images/Screenshot2024-04-01193755.webp)
+
 ---
 
 > ## Objective of replicating the page:
