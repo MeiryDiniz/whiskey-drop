@@ -2,11 +2,11 @@
 
 **Whiskey Drop** is a monthly subscription service that delivers a new curated whiskey directly to your door. 
 
-It is a imaginary landing page developed by [Code Institute](https://codeinstitute.net/ie/) for the Full Stack Software Development course. 
+It is an imaginary landing page developed by [Code Institute](https://codeinstitute.net/ie/) for the Full Stack Software Development course. 
 
-As **Whiskey Drop** is a imaginary page, some dummy text was used on the feature section. This is called Lorem ipsum text, and it's commonly used for populating web sites with fake text to see how the layout works. 
+As **Whiskey Drop** is an imaginary page, some dummy text was used on the feature section. This is called Lorem ipsum text, and it's commonly used for populating web sites with fake text to see how the layout works. 
 
-[Click here to visit the page **Whiskey Drop**]()
+[Click here to visit the landing page: **Whiskey Drop**](https://meirydiniz.github.io/whiskey-drop/)
 
 ![Page Image](https://github.com/MeiryDiniz/whiskey-drop/blob/main/assets/images/Screenshot%202024-04-01%20193755.webp)
 
