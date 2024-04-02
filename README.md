@@ -8,7 +8,7 @@ As **Whiskey Drop** is a imaginary page, some dummy text was used on the feature
 
 [Click here to visit the page **Whiskey Drop**]()
 
-![Page Image](https://github.com/MeiryDiniz/whiskey-drop/blob/main/assets/images/Screenshot2024-04-01193755.webp)
+![Page Image](https://github.com/MeiryDiniz/whiskey-drop/blob/main/assets/images/Screenshot%202024-04-01%20193755.webp)
 
 ---
 

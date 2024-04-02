@@ -56,15 +56,14 @@ body {
 
 .callout-container {
     height: 100vh;
-    background: url("../images/whiskey-background.webp") no-repeat bottom right fixed;
+    background: url('../images/whiskey-background.webp') no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     display: flex;
     align-items: center;
-    justify-content: center;
-    position: relative;
+    justify-content: center;    
 }
 
 .opaque-overlay {
